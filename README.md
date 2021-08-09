@@ -14,5 +14,8 @@ PCB为十六届智能车的双车组别使用，内含MCU，摄像头接口，�
 ## 直插运放
 ![](https://github.com/EnmaAi-0/MM32SPIN27_Pcb/blob/master/photo/%E8%BF%90%E6%94%BE.png)
 
-## 示意图
+## 示意图1
 ![](https://github.com/EnmaAi-0/MM32SPIN27_Pcb/blob/master/photo/%E7%A4%BA%E6%84%8F%E5%9B%BE1.jpg)
+
+## 示意图2
+![](https://github.com/EnmaAi-0/MM32SPIN27_Pcb/blob/master/photo/%E7%A4%BA%E6%84%8F%E5%9B%BE2.png)
